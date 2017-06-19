@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithms
-Various Machine-Learning-Algorithms implemented from scratch as per part of Academic Assignments/Projects and other Data Science
-online certifications.  
+# Viterbi Decoding Algorithm for Part of speech decoding
+
+Implemented python module for part of speech decoding based on principles of HMM model using Viterbi decoding algorithm 
 
